@@ -1,0 +1,5 @@
+ErrorDocument 400 http://www.income899.ml/dashboard/pages/samples/error-404.html
+ErrorDocument 401 http://www.income899.ml/dashboard/pages/samples/error-404.html
+ErrorDocument 403 http://www.income899.ml/dashboard/pages/samples/error-404.html
+ErrorDocument 404 http://www.income899.ml/dashboard/pages/samples/error-404.html
+ErrorDocument 503 http://www.income899.ml/dashboard/pages/samples/error-404.html
